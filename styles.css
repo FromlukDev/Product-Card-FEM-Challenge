@@ -8,7 +8,6 @@
 
 html {
   font-size: 62.5%;
-  transition: all 800ms ease-in-out;
 }
 
 body {
@@ -48,6 +47,7 @@ body {
 .text {
   font-size: 1.5rem;
   color: hsl(220, 15%, 55%);
+  text-align: center;
 }
 /* This is my solution for the Qr-code Challenge.
 Thanks for checking it out. Suggestions and hints are always welcome and appreciated. Peace \0/ */
